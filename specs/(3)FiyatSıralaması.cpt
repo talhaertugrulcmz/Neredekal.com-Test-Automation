@@ -1,0 +1,12 @@
+Created by ertug on 6/9/2024
+
+This is a concept file with following syntax for each concept.
+
+# Otel Fiyat Sıralaması
+
+* "//div[@class='css-1somsfw']" li butona tikla "//div[.='Fiyat: Önce En Düşük']" filtre tikla
+* "4" saniye kadar bekle
+
+# Otel Fiyat Sıralaması Kontrol
+
+* Otel Fiyatlarinin Düsükten Büyüge Kontrolu

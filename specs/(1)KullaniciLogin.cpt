@@ -1,0 +1,21 @@
+Created by ertug on 6/8/2024
+
+This is a concept file with following syntax for each concept.
+
+
+# NeredeKal.com Web Sitesi Kullanıcı Login
+
+* "1" saniye kadar bekle
+* "div[class='css-1ht7101']" li Uye Giris butonunun üzerinde bekleme "//*[@id='__next']/div[2]/div/div[2]/div/div[2]/div[1]" li Giris Yap butonuna tiklanir
+* "1" saniye kadar bekle
+
+
+# Uye Girisi
+
+* ".css-zzyotr[type='text']" li kullanici adi ve "ertugrulcmz@gmail.com" gir "[type='password']" li sifre giris "NeredeTest1!" gir ".css-1203e7 > .css-1lsb456" li butona tikla
+
+
+# Kullanici Login Kontrol
+
+* Kullanici Login Kontrolu
+* "1" saniye kadar bekle

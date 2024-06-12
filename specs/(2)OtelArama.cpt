@@ -1,0 +1,16 @@
+Created by ertug on 6/9/2024
+
+This is a concept file with following syntax for each concept.
+
+# Otel Ismı Yazma
+
+* ".search-input-element" li alana "Bodrum Otelleri" otel ismi gir ve "//div[.='Bodrum OtelleriBölge - Bodrum,Muğla']" tikla
+* "1" saniye kadar bekle
+
+
+# Tarih Secimi ve Arama Yapma
+
+* ".css-1lsb456[data-clickoutside-id='no-date-select-date']" ara butonuna tikla
+
+
+
