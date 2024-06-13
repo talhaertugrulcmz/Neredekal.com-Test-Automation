@@ -4,32 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67726207-b2c3-4079-88f6-fa768bfcc035" name="Changes" comment="" />
+    <list default="true" id="67726207-b2c3-4079-88f6-fa768bfcc035" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/(1)KullaniciLogin.cpt" beforeDir="false" afterPath="$PROJECT_DIR$/specs/(1)KullaniciLogin.cpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/(2)OtelArama.cpt" beforeDir="false" afterPath="$PROJECT_DIR$/specs/(2)OtelArama.cpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/(3)FiyatSıralaması.cpt" beforeDir="false" afterPath="$PROJECT_DIR$/specs/(3)FiyatSıralaması.cpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/NeredekalTest.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/NeredekalTest.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/method/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/method/Methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/step/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/step/StepImplementation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hk2u5a2w8zhgYbmLBZqG0s8nZw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gauge Execution.Neredekal.com Test.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ertug/IdeaProjects/Neredekal.comTestAutomation&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ertug\IdeaProjects\Neredekal.comTestAutomation" />
+      <recent name="C:\Users\ertug\IdeaProjects\Neredekal.comTestAutomation\src\test" />
+      <recent name="C:\Users\ertug\IdeaProjects\Neredekal.comTestAutomation\specs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Neredekal.com Test" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/NeredekalTest.spec:9" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="Neredekal.comTestAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Neredekal.com Test" />
+        <item itemvalue="Gauge Execution.Neredekal.com Test" />
+        <item itemvalue="Gauge Execution.Neredekal.com Test" />
+        <item itemvalue="Gauge Execution.Neredekal.com Test" />
+        <item itemvalue="Gauge Execution.Neredekal.com Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

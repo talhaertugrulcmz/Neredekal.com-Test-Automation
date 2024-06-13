@@ -10,7 +10,6 @@ This is a concept file with following syntax for each concept.
 
 # Tarih Secimi ve Arama Yapma
 
-* ".css-1lsb456[data-clickoutside-id='no-date-select-date']" ara butonuna tikla
-
+* "//div[.='Giriş']" li tarih tablosuna tikla ve secim yap ardindan ".css-1lsb456[data-clickoutside-id='no-date-select-date']" ara butonuna tikla
 
 
