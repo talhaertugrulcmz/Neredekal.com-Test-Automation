@@ -1,5 +1,6 @@
 ## About this template
 
+
 CASE - 1 - Neredekal.com  Web Otomasyon Testi
 
 * Geliştirme Ortamı : Intelij
@@ -10,7 +11,10 @@ CASE - 1 - Neredekal.com  Web Otomasyon Testi
 
 * Kütüphane : Selenium
 
+
 ###############################################################
+
+
 
 
 Read more about [Specifications](http://getgauge.io/documentation/user/current/specifications/README.html)
